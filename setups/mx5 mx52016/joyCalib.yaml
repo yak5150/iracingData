@@ -1,0 +1,27 @@
+---
+CalibrationInfo:
+ DeviceList:
+ - DeviceName: 'FANATEC Wheel'
+   InstanceGUID: '{752D17C0-82BE-11ED-8003-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'Combined Pedals'
+     CalibMin: 0
+     CalibCenter: 65535
+     CalibMax: 65535
+   - Axis: 1
+     AxisName: 'Brake'
+     CalibMin: 0
+     CalibCenter: 59719
+     CalibMax: 64345
+   - Axis: 2
+     AxisName: 'Accelerator'
+     CalibMin: 1489
+     CalibCenter: 65535
+     CalibMax: 65535
+   - Axis: 3
+     AxisName: 'Wheel Axis'
+     CalibMin: 0
+     CalibCenter: 32765
+     CalibMax: 65535
+...

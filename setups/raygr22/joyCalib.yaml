@@ -1,0 +1,60 @@
+---
+CalibrationInfo:
+ DeviceList:
+ - DeviceName: 'FANATEC Wheel'
+   InstanceGUID: '{752D17C0-82BE-11ED-8003-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'Combined Pedals'
+     CalibMin: 0
+     CalibCenter: 65535
+     CalibMax: 65535
+   - Axis: 1
+     AxisName: 'Brake'
+     CalibMin: 0
+     CalibCenter: 65535
+     CalibMax: 65535
+   - Axis: 2
+     AxisName: 'Accelerator'
+     CalibMin: 0
+     CalibCenter: 65535
+     CalibMax: 65535
+   - Axis: 3
+     AxisName: 'Wheel Axis'
+     CalibMin: 0
+     CalibCenter: 32776
+     CalibMax: 65535
+ - DeviceName: 'FANATEC Podium Wheel Base DD2'
+   InstanceGUID: '{54545030-F8EE-11ED-8001-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'Combined Pedals'
+     CalibMin: 0
+     CalibCenter: 65535
+     CalibMax: 65535
+   - Axis: 1
+     AxisName: 'Brake'
+     CalibMin: 0
+     CalibCenter: 65535
+     CalibMax: 65535
+   - Axis: 2
+     AxisName: 'Accelerator'
+     CalibMin: 0
+     CalibCenter: 65535
+     CalibMax: 65535
+   - Axis: 3
+     AxisName: 'Wheel Axis'
+     CalibMin: 0
+     CalibCenter: 32769
+     CalibMax: 65535
+   - Axis: 4
+     AxisName: 'Y Rotation'
+     CalibMin: -127
+     CalibCenter: 0
+     CalibMax: 127
+   - Axis: 5
+     AxisName: 'X Rotation'
+     CalibMin: -128
+     CalibCenter: -1
+     CalibMax: 127
+...
